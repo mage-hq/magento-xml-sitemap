@@ -1,5 +1,5 @@
 # magento-xml-sitemap
-The Magento 2 XML Sitemap extension allows you to efficiently generate Magento XML Sitemaps to better communicate your site structure to search crawlers.
+Magento 2 XML Sitemap extension allows you to efficiently induce Magento XML Sitemaps to more communicate your point structure to search dawdlers
 
 Please go to https://magehq.com/xml-sitemap.html buy extension
 
